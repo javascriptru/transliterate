@@ -1,0 +1,11 @@
+{
+  "name": "@javascriptru/transliterate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilya Kantor",
+  "license": "ISC",
+  "description": "Transliteration function"
+}
